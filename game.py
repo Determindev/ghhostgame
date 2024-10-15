@@ -110,7 +110,6 @@ while running:
         if bg_x == -1200:
             bg_x = 0
 
-а
 
         if bullets:
             for (i, el)  in enumerate(bullets):
