@@ -137,7 +137,7 @@ while running:
         player_x = 150
         ghost_list.clear()
         bullets.clear()
-
+''
     pygame.display.update()
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
